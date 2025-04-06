@@ -1,0 +1,2 @@
+body{background-color:aqua}.maindiv{align-items:center;display:flex;flex-direction:column;height:100vh;justify-content:center;width:100%}.mainSwitch{background-color:red;border-radius:50px;height:50px;width:100px}.Toggleswitch{align-items:center;border:4px solid gray;border-radius:50%;display:flex;height:50px;justify-content:center;margin:0;width:50px}.on{background-color:#90ee90;transform:translateX(50px)}.off,.on{transition:1s}.off{background-color:#f08080;transform:translateX(0)}.spanToggle{font-size:large;font-weight:600}
+/*# sourceMappingURL=main.6f01b557.css.map*/

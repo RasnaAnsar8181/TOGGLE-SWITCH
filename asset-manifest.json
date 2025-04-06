@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TOGGLE-SWITCH/static/css/main.6f01b557.css",
+    "main.js": "/TOGGLE-SWITCH/static/js/main.a82a22a4.js",
+    "index.html": "/TOGGLE-SWITCH/index.html",
+    "main.6f01b557.css.map": "/TOGGLE-SWITCH/static/css/main.6f01b557.css.map",
+    "main.a82a22a4.js.map": "/TOGGLE-SWITCH/static/js/main.a82a22a4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f01b557.css",
+    "static/js/main.a82a22a4.js"
+  ]
+}
